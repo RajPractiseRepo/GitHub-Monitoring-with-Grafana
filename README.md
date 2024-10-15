@@ -1,5 +1,9 @@
-# GitHub-Monitoring-with-Grafana
-## Boost Your DevOps Workflow: Visualize GitHub Activity with Grafana Dashboards
+# 🚀 GitHub-Monitoring-with-Grafana 🚀
+
+![github-grafana-diagram](https://github.com/user-attachments/assets/d04ee7c4-9eca-4a0a-bdff-c5f732717053)
+
+
+## 🚀Boost Your DevOps Workflow: Visualize GitHub Activity with Grafana Dashboards
 
 # 1. Why Visualize GitHub Activity in Grafana?
 Monitoring your GitHub repository using Grafana empowers you to:
@@ -67,6 +71,19 @@ In DevOps, visibility is everything. By setting up GitHub monitoring in Grafana,
 •	**Track progress in real-time** to ensure smooth development cycles.
 
 This setup helps foster a culture of **continuous improvement** and **accountability**, which are vital in **DevOps practices**.
+
+
+# Grafana helps to visualize Different Github Repo's Commits, PRs, Issues, Commit IDs, Author Info
+
+# Repo 1:
+![github-monitoring_using-Grafana](https://github.com/user-attachments/assets/05031d68-29a8-4fb6-b7a3-fa282314c0dd)
+
+
+
+# Repo 2:
+![grafana_monitoring-github](https://github.com/user-attachments/assets/85cf3077-24fd-4aa2-a54a-6109f0523089)
+
+
 
 
 
